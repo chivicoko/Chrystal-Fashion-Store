@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -747,6 +747,11 @@ section {
 .portfolio .portfolio-wrap:hover img {
   transform: scale(1.2);
 }
+
+.portfolio-item {
+  width: 100%;
+}
+
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
 }
